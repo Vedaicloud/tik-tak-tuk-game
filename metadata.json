@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "description": "Hyper-realistic 3D Tic Tac Toe game with physical textures, tactile audio, smart AI, 3D tilt board, multiple themes, and move effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
